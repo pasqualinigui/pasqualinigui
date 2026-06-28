@@ -94,59 +94,6 @@ With a solid background in microservices orchestration, complex ETL pipelines, a
 
 ---
 
-## 🛠️ Tech Stack
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="20%" align="center">
-      <br>
-      <h4>🎨 Front-End & UI</h4>
-      <img src="https://skillicons.dev/icons?i=nextjs,react,ts,tailwind,vite,figma&theme=dark&perline=3" />
-      <br><br>
-      <sub>Framer Motion · Zustand · TanStack · Shadcn</sub>
-      <br><br>
-    </td>
-    <td width="20%" align="center">
-      <br>
-      <h4>⚙️ Back-End & API</h4>
-      <img src="https://skillicons.dev/icons?i=nodejs,nestjs,fastify,python,ts,fastapi&theme=dark&perline=3" />
-      <br><br>
-      <sub>Drizzle · Hono · Pydantic · Valibot · SQLModel</sub>
-      <br><br>
-    </td>
-    <td width="20%" align="center">
-      <br>
-      <h4>🤖 AI & Automation</h4>
-      <img src="https://skillicons.dev/icons?i=python,pytorch,numpy,pandas,sklearn,terraform&theme=dark&perline=3" />
-      <br><br>
-      <sub>LangChain · LangGraph · RAG · MCP · n8n</sub>
-      <br><br>
-    </td>
-    <td width="20%" align="center">
-      <br>
-      <h4>🗄️ Data & Infrastructure</h4>
-      <img src="https://skillicons.dev/icons?i=postgres,redis,aws,cloudflare,lambda,graphql&theme=dark&perline=3" />
-      <br><br>
-      <sub>PgVector · Celery · RESTful · Akamai</sub>
-      <br><br>
-    </td>
-    <td width="20%" align="center">
-      <br>
-      <h4>🚀 DevOps & Testing</h4>
-      <img src="https://skillicons.dev/icons?i=docker,kubernetes,grafana,prometheus,github,git&theme=dark&perline=3" />
-      <br><br>
-      <sub>Sentry · Pytest · Vitest · K6 · CI/CD</sub>
-      <br><br>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
 ## 📊 GitHub Stats
 
 <div align="center">
