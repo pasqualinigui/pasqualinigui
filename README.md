@@ -1,14 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%">
+<!-- FULL-WIDTH ANIMATED HEADER -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Guilherme%20Pasqualini&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20System%20Designer&descAlignY=58&descSize=16" width="100%"/>
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Guilherme%20Pasqualini&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Applied%20AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20System%20Designer&descAlignY=65&descSize=16" width="100%"/>
+<br>
 
+<!-- TYPING EFFECT -->
 <a href="https://github.com/pasqualinigui">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Orchestrating+LLMs+at+Production+Scale;Architecting+Multi-Agent+Systems;Building+Resilient+Distributed+Backends;Designing+Advanced+RAG+%26+MCP+Pipelines;Observability+First+%E2%80%94+Grafana+%7C+Prometheus+%7C+Telemetry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Orchestrating+LLMs+at+Production+Scale;Architecting+Multi-Agent+Systems;Building+Resilient+Distributed+Backends;Designing+Advanced+RAG+%26+MCP+Pipelines;Observability+First+%E2%80%94+Grafana+%7C+Prometheus+%7C+Telemetry" alt="Typing SVG" />
 </a>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%">
 
 </div>
 
@@ -29,19 +29,50 @@
 
 <div align="center">
 
-| <img src="https://img.shields.io/badge/🤖-Applied%20AI%20Engineering-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/🕸️-Multi--Agent%20Systems-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/🔍-RAG%20%26%20MCP%20Protocols-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> |
-|:---:|:---:|:---:|
-| **LLM Orchestration** & Production Systems | **LangChain · LangGraph** — Autonomous Agents | **RAG** Pipelines, **Vector DBs**, **MCP** Servers |
-
-| <img src="https://img.shields.io/badge/📊-Data%20%26%20ML%20Pipelines-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/📡-Observability%20%26%20Telemetry-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/🏗️-Distributed%20Systems-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> |
-|:---:|:---:|:---:|
-| **PyTorch** · Fine-Tuning · **Scikit-Learn** | **Grafana** · **Prometheus** · Real-Time Diagnostics | High-Performance **Microservices** Architecture |
-
-</div>
+<table width="100%">
+  <tr>
+    <td width="33%" align="center">
+      <br>
+      <h3>🤖 Applied AI Engineering</h3>
+      <p>LLM Orchestration & Production Systems</p>
+      <br>
+    </td>
+    <td width="33%" align="center">
+      <br>
+      <h3>🕸️ Multi-Agent Systems</h3>
+      <p>LangChain · LangGraph · Autonomous Agents</p>
+      <br>
+    </td>
+    <td width="33%" align="center">
+      <br>
+      <h3>🔍 RAG & MCP Protocols</h3>
+      <p>RAG Pipelines · Vector DBs · MCP Servers</p>
+      <br>
+    </td>
+  </tr>
+  <tr>
+    <td width="33%" align="center">
+      <br>
+      <h3>📊 Data & ML Pipelines</h3>
+      <p>PyTorch · Fine-Tuning · Scikit-Learn</p>
+      <br>
+    </td>
+    <td width="33%" align="center">
+      <br>
+      <h3>📡 Observability & Telemetry</h3>
+      <p>Grafana · Prometheus · Real-Time Diagnostics</p>
+      <br>
+    </td>
+    <td width="33%" align="center">
+      <br>
+      <h3>🏗️ Distributed Systems</h3>
+      <p>High-Performance Microservices Architecture</p>
+      <br>
+    </td>
+  </tr>
+</table>
 
 <br>
-
-<div align="center">
 
 **🔥 Operating at Scale:** Multi-agent orchestration · ETL at high volume · CI/CD automation · Token & latency monitoring · Database optimization under load
 
@@ -144,7 +175,7 @@ With a solid background in microservices orchestration, complex ETL pipelines, a
 
 <div align="center">
 
-<!-- 
+<!--
   NOTE ON PRIVATE DATA:
   - count_private=true → includes your aggregate private contribution count in the Stats Card
   - Top Languages: Public instance only sees public repos. To include private repos, self-host with PAT:
