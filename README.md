@@ -1,6 +1,14 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Guilherme%20Pasqualini&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Applied%20AI%20Engineer%20%7C%20Full-Stack%20Engineer&descAlignY=55&descSize=18" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%">
+
+<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=6,11,20,24,30&height=220&section=header&text=Guilherme%20Pasqualini&fontSize=48&fontColor=fff&animation=twinkling&fontAlignY=45&desc=Applied%20AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20System%20Designer&descAlignY=65&descSize=16" width="100%"/>
+
+<a href="https://github.com/pasqualinigui">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Orchestrating+LLMs+at+Production+Scale;Architecting+Multi-Agent+Systems;Building+Resilient+Distributed+Backends;Designing+Advanced+RAG+%26+MCP+Pipelines;Observability+First+%E2%80%94+Grafana+%7C+Prometheus+%7C+Telemetry" alt="Typing SVG" />
+</a>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&height=1" width="100%">
 
 </div>
 
@@ -11,7 +19,31 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-pasqualini)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasqualinigui)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasqualini166@gmail.com)
-[![Location](https://img.shields.io/badge/Itapema%2C%20Brazil-🇧🇷-green?style=for-the-badge)](https://github.com/pasqualinigui)
+[![Status](https://img.shields.io/badge/Available%20for%20Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://linkedin.com/in/guilherme-pasqualini)
+
+</div>
+
+---
+
+## 🎯 Areas of Expertise
+
+<div align="center">
+
+| <img src="https://img.shields.io/badge/🤖-Applied%20AI%20Engineering-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/🕸️-Multi--Agent%20Systems-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/🔍-RAG%20%26%20MCP%20Protocols-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> |
+|:---:|:---:|:---:|
+| **LLM Orchestration** & Production Systems | **LangChain · LangGraph** — Autonomous Agents | **RAG** Pipelines, **Vector DBs**, **MCP** Servers |
+
+| <img src="https://img.shields.io/badge/📊-Data%20%26%20ML%20Pipelines-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/📡-Observability%20%26%20Telemetry-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> | <img src="https://img.shields.io/badge/🏗️-Distributed%20Systems-1C3C3C?style=for-the-badge&labelColor=0d1117&color=0e4429" height="28"> |
+|:---:|:---:|:---:|
+| **PyTorch** · Fine-Tuning · **Scikit-Learn** | **Grafana** · **Prometheus** · Real-Time Diagnostics | High-Performance **Microservices** Architecture |
+
+</div>
+
+<br>
+
+<div align="center">
+
+**🔥 Operating at Scale:** Multi-agent orchestration · ETL at high volume · CI/CD automation · Token & latency monitoring · Database optimization under load
 
 </div>
 
@@ -19,32 +51,15 @@
 
 ## ⚡ About Me
 
-```txt
-I am an Applied AI Engineer and full-stack software engineer focused on the Python,
-TypeScript, and Node.js ecosystem. My experience encompasses AI systems design,
-full-stack architecture, data engineering, and observability.
-```
+> I am an **Applied AI Engineer** and **full-stack software engineer** focused on the Python, TypeScript, and Node.js ecosystem. My experience encompasses AI systems design, full-stack architecture, data engineering, and observability.
 
-> 🚀 **"The future of engineering belongs to developers who know how to use Applied AI
-> to solve real business problems in production environments."**
+> 🚀 **"The future of engineering belongs to developers who know how to use Applied AI to solve real business problems in production environments."**
 
 I have built scalable architectures, combining the resilience of traditional microservices with the power of advanced language model orchestration. Most recently at **Fluksos**, I led the architecture of independent multi-agent systems — developing production-oriented AI workflows using **LangGraph**, integrating LLMs, **MCP servers**, and advanced **RAG** to enhance semantic retrieval and eliminate hallucinations.
 
----
+To ensure these systems operate with excellence, I implement fine-tuning pipelines and connect the entire infrastructure to rigorous observability and telemetry systems. Building diagnostic solutions using **Grafana** and **Prometheus** allows me to monitor agent behavior, track token consumption, and identify latency bottlenecks in real time.
 
-## 🧠 Areas of Expertise
-
-<div align="center">
-
-| 🤖 Applied AI Engineering | 🕸️ Multi-Agent Systems | 🔍 Protocols & Retrieval |
-|:---:|:---:|:---:|
-| LLM Orchestration & Production Systems | LangChain, LangGraph, Autonomous Agents | MCP, RAG, Vector Databases |
-
-| 📊 Data Modeling | 📡 Performance & Diagnostics | 🏗️ Backend Architecture |
-|:---:|:---:|:---:|
-| ML Pipelines, PyTorch, Fine-Tuning | Grafana, Prometheus, Telemetry | High-Performance Distributed Systems |
-
-</div>
+With a solid background in microservices orchestration, complex ETL pipelines, and high-volume database optimization, I ensure that systems are not just proofs of concept. They are born with robust infrastructure, shielded by tests, and automated by continuous CI/CD pipelines.
 
 ---
 
@@ -76,6 +91,7 @@ I have built scalable architectures, combining the resilience of traditional mic
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![Drizzle](https://img.shields.io/badge/Drizzle-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Hono](https://img.shields.io/badge/Hono-E36002?style=for-the-badge&logo=hono&logoColor=white)
 
 </div>
 
@@ -84,6 +100,7 @@ I have built scalable architectures, combining the resilience of traditional mic
 <div align="center">
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -104,7 +121,7 @@ I have built scalable architectures, combining the resilience of traditional mic
 
 </div>
 
-### 🚀 DevOps & Testing
+### 🚀 DevOps, Testing & Tooling
 
 <div align="center">
 
@@ -117,6 +134,7 @@ I have built scalable architectures, combining the resilience of traditional mic
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
 ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 </div>
 
@@ -126,31 +144,18 @@ I have built scalable architectures, combining the resilience of traditional mic
 
 <div align="center">
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=pasqualinigui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9"/>
+<!-- 
+  NOTE ON PRIVATE DATA:
+  - count_private=true → includes your aggregate private contribution count in the Stats Card
+  - Top Languages: Public instance only sees public repos. To include private repos, self-host with PAT:
+    1. Fork https://github.com/anuraghazra/github-readme-stats
+    2. Deploy to Vercel with env var PAT_1=<your GitHub token with repo scope>
+    3. Replace the domain below with your Vercel URL
+-->
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasqualinigui&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api?username=pasqualinigui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile"/>
 
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=pasqualinigui&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak"/>
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=pasqualinigui&theme=tokyo-night&bg_color=0d1117&color=58a6ff&line=58a6ff&point=ff6b6b&hide_border=true" width="95%"/>
-
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=pasqualinigui&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4&row=1"/>
+<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasqualinigui&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
 
 </div>
 
@@ -158,8 +163,6 @@ I have built scalable architectures, combining the resilience of traditional mic
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&animation=twinkling" width="100%"/>
-
-<img src="https://komarev.com/ghpvc/?username=pasqualinigui&label=Profile%20Views&color=58a6ff&style=for-the-badge" alt="Profile Views"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
 
 </div>
