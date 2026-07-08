@@ -1,122 +1,100 @@
 <div align="center">
 
-<!-- FULL-WIDTH ANIMATED HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=200&section=header&text=Guilherme%20Pasqualini&fontSize=44&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Applied%20AI%20Engineer%20%C2%B7%20Full-Stack%20Architect%20%C2%B7%20System%20Designer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=190&section=header&text=Guilherme%20Pasqualini&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Applied%20AI%20Engineer%20%C2%B7%20Full-Stack%20Developer%20%C2%B7%20Systems%20Architect&descAlignY=58&descSize=16" width="100%" />
 
-<br>
+<br />
 
-<!-- TYPING EFFECT -->
 <a href="https://github.com/pasqualinigui">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=800&color=58A6FF&center=true&vCenter=true&width=700&lines=Orchestrating+LLMs+at+Production+Scale;Architecting+Multi-Agent+Systems;Building+Resilient+Distributed+Backends;Designing+Advanced+RAG+%26+MCP+Pipelines;Observability+First+%E2%80%94+Grafana+%7C+Prometheus+%7C+Telemetry" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2600&pause=900&color=58A6FF&center=true&vCenter=true&width=780&lines=Building+production-grade+AI+systems;Designing+multi-agent+workflows+with+real+observability;Shipping+RAG+and+MCP+architectures+that+scale;Engineering+backends+for+reliability%2C+speed%2C+and+clarity" alt="Typing SVG" />
 </a>
 
-</div>
-
----
-
-<div align="center">
+<br />
+<br />
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/guilherme-pasqualini)
 [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pasqualinigui)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pasqualini166@gmail.com)
-[![Status](https://img.shields.io/badge/Available%20for%20Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://linkedin.com/in/guilherme-pasqualini)
+[![Open to Work](https://img.shields.io/badge/Open%20to-Opportunities-00C853?style=for-the-badge&logo=checkmarx&logoColor=white)](https://linkedin.com/in/guilherme-pasqualini)
 
 </div>
 
 ---
 
-## 🎯 Areas of Expertise
+## About Me
+
+I’m **Guilherme Pasqualini**, an Applied AI Engineer and full-stack developer focused on building reliable software for real production use.  
+My work sits at the intersection of LLM orchestration, backend architecture, data workflows, and observability.
+
+I design systems that go beyond demos:
+- Multi-agent applications with clear orchestration and recovery flows
+- RAG pipelines with stronger retrieval quality and lower hallucination risk
+- MCP-based integrations for modular AI tooling
+- Distributed services built with maintainability, telemetry, and CI/CD in mind
+
+---
+
+## Core Focus
+
+- Applied AI Engineering — production workflows, evaluation, orchestration, reliability
+- Multi-Agent Systems — LangGraph, tool-using agents, structured coordination
+- RAG & Knowledge Systems — retrieval pipelines, embeddings, vector search, MCP
+- Backend & Platform Engineering — Python, TypeScript, Node.js, APIs, automation
+- Observability — Grafana, Prometheus, telemetry, latency tracking, diagnostics
+- Data & ML Pipelines — ETL, fine-tuning workflows, experimentation, model delivery
+
+---
+
+## Tech Stack
+
+### Languages
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+
+### AI / Data
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=flat-square&logo=chainlink&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C1C1C?style=flat-square&logo=graphql&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
+
+### Platform / Observability
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## Engineering Principles
+
+- Build for production, not only for presentation
+- Prefer measurable reliability over hidden complexity
+- Treat observability as part of the architecture
+- Keep AI systems auditable, testable, and maintainable
+- Design APIs and workflows that scale with teams and products
+
+---
+
+## GitHub Metrics
 
 <div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <br>
-      <h3>🤖 Applied AI Engineering</h3>
-      <p>LLM Orchestration & Production Systems</p>
-      <br>
-    </td>
-    <td width="33%" align="center">
-      <br>
-      <h3>🕸️ Multi-Agent Systems</h3>
-      <p>LangChain · LangGraph · Autonomous Agents</p>
-      <br>
-    </td>
-    <td width="33%" align="center">
-      <br>
-      <h3>🔍 RAG & MCP Protocols</h3>
-      <p>RAG Pipelines · Vector DBs · MCP Servers</p>
-      <br>
-    </td>
-  </tr>
-  <tr>
-    <td width="33%" align="center">
-      <br>
-      <h3>📊 Data & ML Pipelines</h3>
-      <p>PyTorch · Fine-Tuning · Scikit-Learn</p>
-      <br>
-    </td>
-    <td width="33%" align="center">
-      <br>
-      <h3>📡 Observability & Telemetry</h3>
-      <p>Grafana · Prometheus · Real-Time Diagnostics</p>
-      <br>
-    </td>
-    <td width="33%" align="center">
-      <br>
-      <h3>🏗️ Distributed Systems</h3>
-      <p>High-Performance Microservices Architecture</p>
-      <br>
-    </td>
-  </tr>
-</table>
-
-<br>
-
-**🔥 Operating at Scale:** Multi-agent orchestration · ETL at high volume · CI/CD automation · Token & latency monitoring · Database optimization under load
-
+  <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
 </div>
 
 ---
 
-## ⚡ About Me
+## Current Direction
 
-> I am an **Applied AI Engineer** and **full-stack software engineer** focused on the Python, TypeScript, and Node.js ecosystem. My experience encompasses AI systems design, full-stack architecture, data engineering, and observability.
-
-> 🚀 **"The future of engineering belongs to developers who know how to use Applied AI to solve real business problems in production environments."**
-
-I have built scalable architectures, combining the resilience of traditional microservices with the power of advanced language model orchestration. Most recently at **Fluksos**, I led the architecture of independent multi-agent systems — developing production-oriented AI workflows using **LangGraph**, integrating LLMs, **MCP servers**, and advanced **RAG** to enhance semantic retrieval and eliminate hallucinations.
-
-To ensure these systems operate with excellence, I implement fine-tuning pipelines and connect the entire infrastructure to rigorous observability and telemetry systems. Building diagnostic solutions using **Grafana** and **Prometheus** allows me to monitor agent behavior, track token consumption, and identify latency bottlenecks in real time.
-
-With a solid background in microservices orchestration, complex ETL pipelines, and high-volume database optimization, I ensure that systems are not just proofs of concept. They are born with robust infrastructure, shielded by tests, and automated by continuous CI/CD pipelines.
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<!--
-  NOTE ON PRIVATE DATA:
-  - count_private=true → includes your aggregate private contribution count in the Stats Card
-  - Top Languages: Public instance only sees public repos. To include private repos, self-host with PAT:
-    1. Fork https://github.com/anuraghazra/github-readme-stats
-    2. Deploy to Vercel with env var PAT_1=<your GitHub token with repo scope>
-    3. Replace the domain below with your Vercel URL
--->
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api?username=pasqualinigui&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&rank_icon=percentile"/>
-
-<img height="195em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pasqualinigui&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9"/>
-
-</div>
+Right now, I’m especially interested in:
+- Production LLM systems
+- Agentic architectures with strong control layers
+- RAG quality and retrieval evaluation
+- Scalable backend design for AI products
+- Telemetry for cost, tokens, latency, and failure analysis
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&animation=twinkling" width="100%"/>
-
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20,24,30&height=120&section=footer&animation=twinkling" width="100%" />
 </div>
