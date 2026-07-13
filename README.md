@@ -118,7 +118,12 @@ I design decisive systems that go beyond prototypes:
 ## GitHub Metrics
 
 <div align="center">
-  <img src="./github-metrics.svg" alt="GitHub Metrics" width="78%" />
+  <a href="https://github.com/pasqualinigui">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="./github-metrics.svg">
+      <img src="./github-metrics.svg" alt="GitHub Metrics" width="100%" />
+    </picture>
+  </a>
 </div>
 
 ---
