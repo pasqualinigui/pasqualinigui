@@ -22,58 +22,74 @@
 
 ## About Me
 
-I’m **Guilherme Pasqualini**, an Applied AI Engineer and full-stack developer focused on building reliable software for real production environments.  
-My work sits at the intersection of LLM orchestration, backend architecture, observability, infrastructure, and product delivery.
+I’m **Guilherme Pasqualini**, an Applied AI Engineer, full-stack developer, and the CEO of Fluksos. I focus on building reliable software for real production environments, sitting right at the intersection of LLM orchestration, backend architecture, observability, infrastructure, and product delivery.  
 
-I design systems that go beyond prototypes:
-- Multi-agent applications with clear orchestration and recovery flows
+I design decisive systems that go beyond prototypes:
+- Multi-agent applications with clear orchestration, autonomous workflows, and recovery flows
 - RAG pipelines with stronger retrieval quality and lower hallucination risk
-- MCP-based integrations for modular AI tooling and extensible workflows
-- Distributed services built with maintainability, telemetry, and CI/CD in mind
+- MCP-based integrations for modular AI tooling and extensible architecture
+- Distributed services built with maintainability, telemetry, and CI/CD at the core
 
 ---
 
 ## Core Focus
 
-- Applied AI Engineering — production workflows, orchestration, evaluation, and reliability
-- Agentic Systems — LangGraph, tool-using agents, structured coordination, control layers
-- RAG & Knowledge Systems — retrieval pipelines, embeddings, vector search, and MCP
-- Observability — tracing, telemetry, latency diagnostics, and production visibility
-- Backend & Platform Engineering — Python, TypeScript, APIs, automation, and microservices
-- Full-Stack Delivery — from infrastructure and services to polished product interfaces
+- **Applied AI Engineering** — production workflows, orchestration, evaluation, and reliability
+- **Agentic Systems** — LangGraph, tool-using agents, structured coordination, control layers
+- **RAG & Knowledge Systems** — retrieval pipelines, embeddings, vector search, and MCP
+- **Observability** — tracing, telemetry, latency diagnostics, and production visibility
+- **Backend & Platform Engineering** — Python, TypeScript, APIs, automation, and microservices
+- **Full-Stack Delivery** — from infrastructure and services to polished product interfaces
 
 ---
 
 ## Tech Stack
 
-<table>
-  <tr>
-    <td valign="top" width="50%">
+### 🧠 AI Engineering & Data
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![LangChain](https://img.shields.io/badge/LangChain-121212?style=for-the-badge)
+![LangGraph](https://img.shields.io/badge/LangGraph-121212?style=for-the-badge)
+![Langfuse](https://img.shields.io/badge/Langfuse-121212?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
 
-### AI Engineering & Data
-Python · LangGraph · LangChain · Langfuse · MCP · RAG · Pandas · NumPy · PyTorch · scikit-learn · n8n
+### ⚙️ Backend & Microservices
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apachekafka&logoColor=white)
+![Drizzle](https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black)
+![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge&logo=celery&logoColor=white)
 
-### Backend & Microservices
-Node.js · NestJS · Fastify · TypeScript · Python · Kafka · Hono RPC · Valibot · Drizzle ORM · Celery · FastAPI · Pydantic · Mypy · SQLModel
+### ☁️ Infra, Edge & DevOps
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white)
+![Traefik](https://img.shields.io/badge/Traefik-24A1C1?style=for-the-badge&logo=traefik&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Coolify](https://img.shields.io/badge/Coolify-121212?style=for-the-badge)
 
-### Infra, Edge & DevOps
-Docker · Kubernetes · Redis · PostgreSQL · pgvector · Traefik · Upstash · AWS · Lambda · Akamai · Cloudflare · Coolify · CI/CD
+### 📊 Observability & Testing
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
+![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
+![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Ruff](https://img.shields.io/badge/Ruff-E4C200?style=for-the-badge&logo=ruff&logoColor=black)
+![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 
-</td>
-<td valign="top" width="50%">
-
-### Observability & Testing
-Prometheus · Grafana · OpenTelemetry · Sentry · Vitest · Pytest · K6 · Pandera · Ruff · Biome · Lefthook · Turborepo
-
-### Frontend & UI
-Next.js · React · TypeScript · Vite · Tailwind CSS · shadcn/ui · Framer Motion · Zustand · TanStack · Figma
-
-### Specialization
-Applied AI · Agentic Workflows · RAG Systems · MCP Integrations · Backend Architecture · Observability · Full-Stack Product Engineering
-
-</td>
-  </tr>
-</table>
+### 💻 Frontend & UI
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
 ---
 
@@ -85,8 +101,6 @@ Applied AI · Agentic Workflows · RAG Systems · MCP Integrations · Backend Ar
 - Issuer: Red Hat Academy
 - Status: Completed
 - Credential: [View on Credly](https://www.credly.com/badges/9b1d3f46-e0f5-4b64-98b5-3ee730b259d0/public_url)
-
-> This section is ready to grow as new certifications and technical training are completed.
 
 ---
 
