@@ -81,6 +81,7 @@ I design decisive systems that go beyond prototypes:
 ![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=for-the-badge&logo=opentelemetry&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 ![Pytest](https://img.shields.io/badge/Pytest-0A9EDC?style=for-the-badge&logo=pytest&logoColor=white)
+![Locust](https://img.shields.io/badge/Locust-7B933C?style=for-the-badge&logo=locust&logoColor=white)
 ![Ruff](https://img.shields.io/badge/Ruff-E4C200?style=for-the-badge&logo=ruff&logoColor=black)
 ![Biome](https://img.shields.io/badge/Biome-60A5FA?style=for-the-badge&logo=biome&logoColor=white)
 
